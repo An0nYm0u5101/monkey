@@ -27,3 +27,4 @@ mongomock
 requests
 dpath
 ring
+pyjwt>=1.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
