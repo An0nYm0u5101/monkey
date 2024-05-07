@@ -13,3 +13,4 @@ wmi
 pywin32 ; sys_platform == 'win32'
 pymssql<3.0
 pyftpdlib
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
