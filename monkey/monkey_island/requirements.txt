@@ -27,3 +27,4 @@ mongomock
 requests
 dpath
 ring
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
